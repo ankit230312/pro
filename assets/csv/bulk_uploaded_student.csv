@@ -1,0 +1,7 @@
+*name,username,password,*admission_no,admission_date,date_of_birth,*gender,*group,*level,*class,*Section,blood_group,religion,caste,phone,email,national_id,student_type_id,academic group,*roll_no,registration_no,discount_id,second_language,present_address,permanent_address,health_condition,previous_school,previous_class,other_info,father_name,father_phone,father_education,father_profession,father_designation,mother_name,mother_phone,mother_education,mother_profession,mother_designation,gud_name,gud_phone,gud_email,gud_profession,gud_religion,gud_national_id,gud_present_address,gud_permanent_address,gud_other_info,relation_with_guardian
+Mihir,,,10,,,Male,School,Primary,1,A,,,,,,,,,1,,,,,,,,,,Father 1,1234567890,,,,mother 1,1234567890,,,,,Guardian 1,guardian@gmail.com,,,,,,,
+Utkarsh,,,11,,,Male,School,Primary,1,A,,,,,,,,,2,,,,,,,,,,Father 2,1234567890,,,,mother 2,1234567890,,,,,Guardian 2,guardian@gmail.com,,,,,,,
+Jaiswal,,,15,,,Male,School,Primary,1,A,,,,,,,,,3,,,,,,,,,,Father 3,1234567890,,,,mother 3,1234567890,,,,,Guardian 3,guardian@gmail.com,,,,,,,
+Sparsh,,,12,,,Male,School,Primary,1,A,,,,,,,,,4,,,,,,,,,,Father 4,1234567890,,,,mother 4,1234567890,,,,,Guardian 4,guardian@gmail.com,,,,,,,
+Falguni,,,13,,,Female,School,Primary,1,A,,,,,,,,,5,,,,,,,,,,Father 5,1234567890,,,,mother 5,1234567890,,,,,Guardian 5,guardian@gmail.com,,,,,,,
+Manjari,,,14,,,Female,School,Primary,1,A,,,,,,,,,6,,,,,,,,,,Father 6,1234567890,,,,mother 6,1234567890,,,,,Guardian 6,guardian@gmail.com,,,,,,,

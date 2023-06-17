@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-15 13:43:20 --> 404 Page Not Found: /index
+ERROR - 2023-05-15 17:13:27 --> Could not find the language line "statistics"
+ERROR - 2023-05-15 17:15:26 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:15:26 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:15:37 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:15:37 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:15:41 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:15:41 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:15:47 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:15:47 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:16:32 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:16:32 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:16:41 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:16:41 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:20:54 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:20:54 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 13:50:57 --> 404 Page Not Found: /index
+ERROR - 2023-05-15 17:29:50 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:29:50 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:29:55 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:29:55 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:29:58 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:29:58 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:30:02 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:30:02 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 17:30:16 --> Could not find the language line "human_resource_manage"
+ERROR - 2023-05-15 17:30:16 --> Could not find the language line "exam_setup"
+ERROR - 2023-05-15 14:00:18 --> 404 Page Not Found: /index

@@ -1,0 +1,17 @@
+<svg width="68" height="62" viewBox="0 0 68 62" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="33.9604" y1="43.6213" x2="19.1212" y2="58.4606" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<line x1="1.5" y1="-1.5" x2="22.4859" y2="-1.5" transform="matrix(0.707107 0.707107 0.707107 -0.707107 35.5 41.5)" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<line x1="34.9346" y1="43.0537" x2="34.9346" y2="59.0496" stroke="black" stroke-width="3" stroke-linecap="round"/>
+<rect x="1.5" y="1.5" width="64.5" height="40.5" rx="2.5" fill="url(#paint0_linear)" stroke="black" stroke-width="3"/>
+<rect x="17.04" y="19.166" width="6.10581" height="6.10581" rx="2" fill="black"/>
+<rect x="30.6084" y="19.166" width="6.10581" height="6.10581" rx="2" fill="black"/>
+<rect x="44.1772" y="19.166" width="6.10581" height="6.10581" rx="2" fill="black"/>
+<defs>
+<linearGradient id="paint0_linear" x1="67.4788" y1="21.7452" x2="-0.021239" y2="21.7452" gradientUnits="userSpaceOnUse">
+<stop stop-color="#72AAB6"/>
+<stop offset="0.328125" stop-color="#7CD9B2"/>
+<stop offset="0.666667" stop-color="#93E0CE"/>
+<stop offset="1" stop-color="#92E4A9"/>
+</linearGradient>
+</defs>
+</svg>

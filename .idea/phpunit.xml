@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PHPUnit">
+    <option name="directories">
+      <list>
+        <option value="$PROJECT_DIR$/blog/wp-includes/sodium_compat/tests" />
+        <option value="$PROJECT_DIR$/LMS/public/content/vimeo/tests" />
+        <option value="$PROJECT_DIR$/blog/wp-includes/sodium_compat/tests" />
+        <option value="$PROJECT_DIR$/LMS/public/content/vimeo/tests" />
+        <option value="$PROJECT_DIR$/application/third_party/midtrans/tests" />
+        <option value="$PROJECT_DIR$/application/third_party/midtrans/tests/integration" />
+        <option value="$PROJECT_DIR$/LMS/tests/Unit" />
+        <option value="$PROJECT_DIR$/LMS/tests/Feature" />
+      </list>
+    </option>
+  </component>
+</project>
