@@ -682,7 +682,7 @@ if (!function_exists('get_subject_list_online')) {
 
 if (!function_exists('get_exam_wise_markt')) {
 
-    function get_exam_wise_markt($school_id, $academic_year_id, $exam_id, $class_id, $section_id = null, $student_id = null) {
+    function get_exam_wise_markt ($school_id, $academic_year_id, $exam_id, $class_id, $section_id = null, $student_id = null) {
         $ci = & get_instance();
         
         $select = 'SUM(M.written_mark) AS written_mark,

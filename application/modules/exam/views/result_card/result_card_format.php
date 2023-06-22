@@ -671,14 +671,15 @@
                 type: 'POST',
                 data: {
                     id: yes,
-                },
+                   
+                                    },
                  dataType: 'json',
                 success: function(response) {
                     if (response) {
                         alert("ok ");
                       
                     } else {
-                        alert("no ");
+                        alert("Data added to the Result card");
                     }
                 }
             });

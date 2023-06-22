@@ -42,7 +42,7 @@
 
 
                     <?php if ($this->session->userdata('role_id') != STUDENT) { ?>
-                        <div class="col-md-2 col-sm-2 col-xs-12">
+                        <!-- <div class="col-md-2 col-sm-2 col-xs-12">
                         <div class="item form-group"> 
                             <div><?php echo $this->lang->line('exam'); ?> Mode <span class="required">*</span></div>
                             <select  class="form-control col-md-7 col-xs-12" name="exam_mode_id" id="exam_mode_id" required="required" >                                
@@ -59,7 +59,7 @@
                             </select>
                             <div class="help-block"><?php echo form_error('exam_mode_id'); ?></div>
                         </div>
-                    </div>  
+                    </div>   -->
 
 
                         <div class="col-md-3 col-sm-3 col-xs-12">
@@ -255,18 +255,12 @@
 
                                 $count = 1;
                                 if ((isset($exam_subjects) && !empty($exam_subjects) || isset($exam_subjects_online) && !empty($exam_subjects_online))) {
-                                ?>
+                                print_r($exam_subjects);
+                               ?>
 
                                     <?php foreach ($exam_subjects as $obj) {
-                                        // echo "<pre>";
-                                        //  print_r($obj);
-                                        // echo "</pre>";
-
-
+                                      
                                     ?>
-
-
-
                                         <?php $exam = get_exam_result($school_id, $ex->id, $student_id, $academic_year_id, $class_id, $section_id); ?>
                                         <?php if (@$exam->name == '') {
                                             continue;

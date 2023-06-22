@@ -157,7 +157,7 @@
                                                     <?php if ($this->session->userdata('role_id') == SUPER_ADMIN) { ?>
                                                         <td><?php echo $obj->school_name; ?></td>
                                                     <?php } ?>
-                                                    <td><?php echo get_exam_detail_by_id($obj->title)->title; ?></td>
+                                                    <td><?php echo $obj->title; ?></td>
                                                     <td><?php echo $obj->class_name;  ?></td>
                                                     <td><?php echo $obj->subject; ?></td>
                                                     <td><?php echo count(get_exam_to_question($obj->id)); ?></td>

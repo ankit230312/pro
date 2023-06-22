@@ -810,26 +810,26 @@
                                                                 <li><a class='ad___minh'><i class="fa fa-file-text-o"></i>
                                                                                 <?php echo $this->lang->line('exam_mark'); ?> <span class="fa fa-chevron-down"></span></a>
                                                                         <ul class="nav child_menu child_menu1">
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'mark')) { ?>
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'mark')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/mark/index'); ?>"><?php echo $this->lang->line('manage_mark'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'examresult')) { ?>
+                                                                                <?php } ?> -->
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'examresult')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/examresult/index'); ?>"><?php echo $this->lang->line('exam_term_result'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'finalresult')) { ?>
+                                                                                <?php } ?> -->
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'finalresult')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/finalresult/index'); ?>"><?php echo $this->lang->line('exam_final_result'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'meritlist')) { ?>
+                                                                                <?php } ?> -->
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'meritlist')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/meritlist/index'); ?>"><?php echo $this->lang->line('merit_list'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'marksheet')) { ?>
+                                                                                <?php } ?> -->
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'marksheet')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/marksheet/index'); ?>"><?php echo $this->lang->line('mark_sheet'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
+                                                                                <?php } ?> -->
                                                                                 <?php if (has_permission(VIEW, 'exam_marks', 'resultcard')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/resultcard/index'); ?>"><?php echo $this->lang->line('result_card'); ?></a>
                                                                                         </li>
@@ -843,12 +843,12 @@
                                                                                         <li><a href="<?php echo site_url('exam/resultcard/result_card_format'); ?>"><?php echo $this->lang->line('result_card_format'); ?></a>
                                                                                         </li>
                                                                                 <?php } ?>
-                                                                                <?php if (has_permission(VIEW, 'exam_marks', 'resultcard')) { ?>
+                                                                                <!-- <?php if (has_permission(VIEW, 'exam_marks', 'resultcard')) { ?>
                                                                                         <li><a href="<?php echo site_url('exam/resultcard/reportCard_new_for'); ?>"><?php echo $this->lang->line('reportCard_new_for'); ?></a>
                                                                                         </li>
-                                                                                <?php } ?>
+                                                                                <?php } ?> -->
                                                                                 <?php if (has_permission(VIEW, 'exam_marks', 'resultcard')) { ?>
-                                                                                        <li><a href="<?php echo site_url('exam/resultcard/school_result_col'); ?>">
+                                                                                        <li><a href="<?php echo site_url('exam/resultcard/school_check_result_col'); ?>">
                                                                                                        Result Check</a></li>
                                                                                 <?php } ?>
                                                                                

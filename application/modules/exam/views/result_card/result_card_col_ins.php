@@ -140,7 +140,7 @@
                                         <div class="item form-group">
                                             <label for="school_url"><?php echo $this->lang->line('column_name'); ?> <span class="required">*</span></label>
                                             <input class="form-control col-md-7 col-xs-12" name="ins_col" id="ins_col" value="" required="required" type="text" autocomplete="off">
-                                            <input class="form-control col-md-7 col-xs-12" name="ins_col" id="ins_col_school" value="<?php  ?>" required="" type="hidden" autocomplete="off">
+                                            <!-- <input class="form-control col-md-7 col-xs-12" name="ins_col" id="ins_col_school" value="<?php  ?>" required="" type="hidden" autocomplete="off"> -->
 
                                         </div>
                                     </div>

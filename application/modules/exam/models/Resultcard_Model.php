@@ -85,8 +85,8 @@ class Resultcard_Model extends MY_Model
         $ids = explode(",", $id);
         count($ids);
         $data = array("status" => 1);
-        foreach($ids as $ii){
-           
+        foreach ($ids as $ii) {
+
 
             $this->db->where("id", $ii);
             $this->db->update("result_card_column1", $data);
@@ -126,5 +126,12 @@ class Resultcard_Model extends MY_Model
         $col_school_selected = $this->db->get("result_card_column1");
         // print_r($col_school->result());
         return $col_school_selected;
+    }
+    public function dataset()
+    {
+        $this->db->select("*");
+        $data_marks =  $this->db->get("marks");
+        return $data_marks;
+        //print_r($data_marks);
     }
 }
